@@ -1,0 +1,2 @@
+Can't expand stack segment by 8 bytes to 270080 bytes.
+Use -lstack # with # > 270080

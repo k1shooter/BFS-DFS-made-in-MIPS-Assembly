@@ -1,0 +1,32 @@
+input11: Time out occurs!
+input13: Time out occurs!
+input16: Time out occurs!
+input17: Time out occurs!
+input2: DFS correct
+input2: BFS correct
+input3: DFS correct
+input3: BFS correct
+input4: DFS correct
+input4: BFS correct
+input5: DFS correct
+input5: BFS correct
+input6: DFS correct
+input6: BFS correct
+input7: DFS correct
+input7: BFS correct
+input8: DFS correct
+input8: BFS correct
+input9: DFS correct
+input9: BFS correct
+input10: DFS correct
+input10: BFS correct
+input11: DFS correct
+input12: DFS correct
+input12: BFS correct
+input14: DFS correct
+input14: BFS correct
+input15: DFS correct
+input15: BFS correct
+input18: MIPS error occurs!
+input19: MIPS error occurs!
+input20: MIPS error occurs!
